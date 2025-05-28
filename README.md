@@ -1,2 +1,2 @@
-# discussions
+# Junco Discussions
 Discussions for Junco
